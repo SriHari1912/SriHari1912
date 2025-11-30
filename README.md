@@ -37,11 +37,6 @@
 - 🏠 Alerts for PIR motion, smoke, gas leak, water leak, high temperature, and theft attempts ⚠️  
 - 📱 Integrated with **real-time notifications and alert dashboard**  
 
-### 4️⃣ UPI Fraud Detection
-- 💻 **Tech Stack:** Python, Machine Learning 🤖  
-- 🔒 Built a model to detect fraudulent UPI transactions  
-- 📊 Applied **data preprocessing, feature engineering, and predictive ML models**
-
 ---
 
 ## 📊 GitHub Stats
