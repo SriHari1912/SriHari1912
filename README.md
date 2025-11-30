@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Srihari Kampasati (SriHari1912)
 
 💻 **B.Tech – Artificial Intelligence & Data Science**  
-🚀 **Full-Stack Developer | AI & Data Science Enthusiast**  
+🚀 **Full-Stack Developer | Generative AI Enthusiast**  
 🌱 Always **Learning, Building & Growing** 🌟  
 
 ---
