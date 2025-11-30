@@ -47,7 +47,7 @@
 ---
 
 ## 📄 Resume
-[📥 Download My Resume](https://github.com/SriHari1912/KAMPASATI SRIHARI.pdf)  
+[📥 Download My Resume](https://github.com/SriHari1912/KAMPASATI SRIHARI .pdf)  
 
 ---
 
