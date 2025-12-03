@@ -37,7 +37,7 @@
 - 📝 Added **category-wise analysis, monthly summaries, and data export feature**  
 
 ### 3️⃣ Smart Home Alert System
-- 💻 **Tech Stack:** Python, Sensors, IoT Integration  
+- 💻 **Tech Stack:** C, Sensors, IoT Integration  
 - 🏠 Alerts for PIR motion, smoke, gas leak, water leak, high temperature, and theft attempts ⚠️  
 - 📱 Integrated with **real-time notifications and alert dashboard**  
 
