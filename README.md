@@ -25,18 +25,26 @@
 
 ## 📂 Projects
 
-### 1️⃣ Job Portal Web Application
+## 1 AI-Based Cashier-Less Grocery Billing System
+
+- 💻 Tech Stack: React, FastAPI, Python, Supabase, YOLO, DAC-Net, LLMs
+- 🤖 Developed an AI-powered billing system for automatic grocery item detection and bill generation
+- 📷 Implemented real-time product recognition using Computer Vision and Deep Learning models
+- 🧾 Integrated smart billing, barcode scanning, admin panel, and billing history management
+- ⚡ Designed to reduce billing time and improve shopping efficiency with a cashier-less experience
+
+### 2 Job Portal Web Application
 - 💻 **Tech Stack:** HTML, CSS, JS, PHP, MySQL   
 - 🏗️ **Role:** Team Lead + Database Management  
 - 🌟 Developed a full-featured job portal connecting employers & candidates  
 - 🔍 Implemented **search filters, job application tracking, and admin panel**  
 
-### 2️⃣ Budget Tracker & Expense Manager
+### 3 Budget Tracker & Expense Manager
 - 💻 **Tech Stack:** HTML, CSS, JS, PHP, MySQL   
 - 💰 Tracks income & expenses, generates reports & visualizations 📊  
 - 📝 Added **category-wise analysis, monthly summaries, and data export feature**  
 
-### 3️⃣ Smart Home Alert System
+### 4 Smart Home Alert System
 - 💻 **Tech Stack:** C, Sensors, IoT Integration  
 - 🏠 Alerts for PIR motion, smoke, gas leak, water leak, high temperature, and theft attempts ⚠️  
 - 📱 Integrated with **real-time notifications and alert dashboard**  
